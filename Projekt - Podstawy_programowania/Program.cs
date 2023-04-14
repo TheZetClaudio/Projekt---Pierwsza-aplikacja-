@@ -1,21 +1,4 @@
-﻿//Przedstawienie się i weryfikacja//
-//problemy z wiekiem//
-//zabawa z liczeniem co jakiś czas podaj lowową liczbe by na końcu ją obliczyć//
-//TO DO //
-//Class dla naszego Uczestnika - posiada imie, wiek, Uczeń czy nauczyciel//
-//Methode liczącą (Zwracającą INT) funkcja if potem podział na liczenie dodawanie, odejmowanie, mnożenie, dzielenie//
-//po 3 razach przechodzi do specjalnego gdzie robie jakieś Dziwne Motematyczne obliczanie//
-
-//  exceptions (try-catch-finally) gdzie jeśli przekroczymy INT daje nam 0//
-
-
-
-
-
-
-
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Text.RegularExpressions;
